@@ -3,7 +3,12 @@
 
 
 #--------------------- module ------------------------#
-os.system(pip install update) 
+import os, sys
+os.system('pip install telethon')
+os.system('pip install pyfiglet')
+os.system('pip install datetime')
+os.system('pip install requests')
+os.system('pip install logging') 
 import threading
 import os
 import json
