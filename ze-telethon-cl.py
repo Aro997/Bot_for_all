@@ -3,7 +3,7 @@
 
 
 #--------------------- module ------------------------#
-
+os.system(pip install update) 
 import threading
 import os
 import json
